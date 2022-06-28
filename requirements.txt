@@ -1,5 +1,5 @@
 aniso8601==7.0.0
-arrow==0.14.2
+arrow==0.15.1
 boto3==1.9.197
 botocore==1.12.197
 Click==7.0
